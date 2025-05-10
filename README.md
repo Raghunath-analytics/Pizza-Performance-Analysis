@@ -60,7 +60,7 @@
 - ✅ End-to-End BI Project Execution - From SQL-based data preparation to final Power BI deployment, developed full-stack analytics project experience.
 
 ## 📊 Dashboard Preview
-![Pizza Sales Dashboard]([assets/pizza_dashboard.png](https://github.com/Raghunath-analytics/Pizza-Performance-Analysis/blob/main/Dashboard.png))
+![Dashboard](https://github.com/Raghunath-analytics/Pizza-Performance-Analysis/blob/main/Dashboard.png)
 
 
 
